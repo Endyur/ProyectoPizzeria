@@ -1,0 +1,8 @@
+.image-st{
+
+    height: calc(100vh - 343px);
+}
+.imgestyle{
+    object-fit: inherit;
+    height: calc(100vh - 351px);
+}

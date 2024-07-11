@@ -1,0 +1,31 @@
+.topcard,
+.botooncard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 190px;
+}
+
+.title-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+li,
+.card-link {
+  font-family: "Brush Script MT", cursive;
+}
+.custom-list {
+  list-style-type: disc; /* Tipo de viñeta */
+  padding-left: 20px; /* Espacio a la izquierda para las viñetas */
+}
+
+.custom-list .list-group-item {
+  display: list-item; /* Reintroduce el estilo de lista */
+  list-style-position: inside; /* Viñetas dentro del elemento */
+}
+
+.trescarnes{
+    height: 215px;
+}
